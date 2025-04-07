@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sergio Yáñez
-- 👀 I’m interested in Java and Cybersecurity
-- 🌱 I’m currently learning the Spring Boot and Cisco CyberOps, looking forward to a bachelor's degree in Computer Science next year
-- 📫 How to reach me sergioyanez@outlook.com
+- 👀 I’m interested in Python, Java and Cybersecurity
+- 🌱 I’m currently studying for a technical degree in programming technologies at UPSO    
+- 📫 How to reach me sergioyanez@outlook.com.ar
 
 <!---
 SerYanez/SerYanez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
